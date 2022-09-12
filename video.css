@@ -1,0 +1,74 @@
+div.menu-section ul li{
+    list-style-type: none;
+    padding-bottom: 15px;
+    display: inline-block;
+    margin: 0 40px 300px ;
+}
+div.menu-section ul li a{
+    padding: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 10px;
+}
+div.menu-section ul li:nth-child(1) a{
+    color: #fff;
+    background-color: rgba(243, 132, 132, 0.548);
+}
+div.menu-section ul li:nth-child(2) a{
+    color: #fff;
+    background-color: rgb(128, 248, 144);
+}
+div.menu-section ul li:nth-child(3) a{
+    color: #ddd;
+    background-color: rgb(250, 89, 164);
+}
+div.menu-section ul li:nth-child(4) a{
+    color: orange;
+    background-color: rgb(131, 243, 237);
+}
+div.menu-section ul li:nth-child(5) a{
+    color: #ddd;
+    background-color: rgb(107, 66, 253);
+}
+div.menu-section ul li:nth-child(6) a{
+    color: #ddd;
+    background-color: rgb(19, 5, 5);
+}
+
+div.footer-section ul li{
+    list-style-type: none;
+    padding-bottom: 15px;
+    display: inline-block;
+    margin: 0 40px 300px ;
+}
+div.footer-section ul li a{
+    padding: 20px;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 10px;
+}
+div.footer-section ul li:nth-child(1) a{
+    color: #ddd;
+    background-color: rgb(19, 5, 5);
+}
+div.footer-section ul li:nth-child(2) a{
+    color: #ddd;
+    background-color: rgb(107, 66, 253);
+}
+div.footer-section ul li:nth-child(3) a{
+    color: orange;
+    background-color: rgb(131, 243, 237);
+}
+div.footer-section ul li:nth-child(4) a{
+    color: #ddd;
+    background-color: rgb(250, 89, 164);
+}
+div.footer-section ul li:nth-child(5) a{
+    color: #fff;
+    background-color: rgb(128, 248, 144);
+}
+div.footer-section ul li:nth-child(6) a{
+    color: #fff;
+    background-color: rgba(243, 132, 132, 0.548);
+}

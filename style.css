@@ -1,0 +1,91 @@
+.template{
+    width: 80%;
+    margin: 0 auto;
+}
+/* Menu Heading Css Start */
+div.menu-heading h5{
+    background-color: #34495d;
+    padding: 10px;
+    margin-bottom: 0;
+}
+/* Menu Heading Css End */
+
+/* Hero Section Css Start  */
+.hero-ssection{
+    background-color: #e67e22;
+    padding: 100px 120px;
+}
+.hero-ssection img {
+    width: 100%;
+    box-shadow: 15px 15px 15px #fff;
+}
+/* Hero Section Css End  */
+
+/* content-section Css Start  */
+.content-section{
+    background-color: #34495e;
+    padding: 70px;
+}
+.content-section h3{
+    color: #3498db;
+}
+/* content-section Css End  */
+
+/* Service Section Css Start */
+.service-section{
+    background-color: #9b59b6;
+    padding: 55px 60px; 
+}
+
+.service-section h5{
+    color: #198754;
+}
+.service-section .heading-4{
+    color: #f1c40f;
+}
+.service-section h4{
+    color: #95a5a6;
+}
+/* Service Section Css End */
+
+/* Dash Section Css Start */
+.dash-section{
+    background-color: #ff9814;
+    padding: 45px 260px;
+}
+.dash{
+    background-color: #dcdcdc;
+    width: 480px;
+    height: 135px;
+    margin: auto;
+    border: 2px dashed black;
+    box-shadow: 25px 25px #fff;
+    border-radius: 8px;
+}
+.dash p {
+    font-size: 60px;
+    font-weight: 500;
+    padding: 10px 200px 80px 200px;
+}
+/* Dash Section Css End */
+
+/* Footer Section Css Start  */
+.footer-section{
+    background-color: #2c3e50;
+    
+}
+.footer-section p{
+    padding: 15px 0 30px 0;
+    margin: 0;
+}
+/* Footer Section Css End  */
+
+.video-assignment a{
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+    font-size: 20px;
+    display: block;
+    text-decoration: none;
+    text-transform: capitalize;
+}
